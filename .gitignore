@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+# JetBrains IDEs
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional: OS specific
+.DS_Store
+Thumbs.db
